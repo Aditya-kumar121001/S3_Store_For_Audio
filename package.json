@@ -1,0 +1,24 @@
+{
+  "name": "s3_store_for_audio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya-kumar121001/S3_Store_For_Audio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aditya-kumar121001/S3_Store_For_Audio/issues"
+  },
+  "homepage": "https://github.com/Aditya-kumar121001/S3_Store_For_Audio#readme",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1071.0"
+  }
+}
